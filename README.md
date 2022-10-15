@@ -1,6 +1,6 @@
 # Trojan Traffic Classification
 
-### Package(s) used:
+### Software used:
 ![GitHub R package version](https://img.shields.io/github/r-package/v/bips-hb/neuralnet)
 
 ### Data Source: 
